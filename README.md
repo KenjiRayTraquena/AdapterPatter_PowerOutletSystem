@@ -1,0 +1,1 @@
+# AdapterPatter_PowerOutletSystem
