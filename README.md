@@ -1,4 +1,4 @@
-# AdapterPatter_PowerOutletSystem
+# AdapterPattern_PowerOutletSystem
 
 Plugging Devices into Power Outlets
 
